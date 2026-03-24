@@ -65,7 +65,7 @@ https://intern.demoshopping.ru/api-docs/
 ## Как запустить
 
 1. Импортировать коллекцию в Postman:  
-   `postman/DemoShopping.postman_collection.json`
+   [DemoShopping.postman_collection.json](./postman/DemoShopping.postman_collection.json)
 
 2. Настроить переменные окружения:
 
